@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently working as **DevOps Engineer** at Huawei.
 - 🔭 I have Master's degree in **Information Technology**.
-- 👯 I’m looking to collaborate on **IT Automation** projects.
 - ✨ I like to use frameworks like **Angular**, **Spring Boot**, **Django**, **Flask**, **Express** in my projects.
 - 💬 I'm mostly active within the **Raspberry Pi** and **Robot Framework** communities.
 
