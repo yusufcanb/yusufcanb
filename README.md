@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/yusufcanbayrak">Linkedin</a>
 </p>
 
-- 🌱 I’m currently working as **DevOps Engineer** at Huawei.
+- 🌱 I’m currently working as **Full Stack Developer** at EnOcean.
 - 🔭 I have Master's degree in **Information Technology**.
 - ✨ I like to use frameworks like **Angular**, **Spring Boot**, **Django**, **Flask**, **Express** in my projects.
 - 💬 I'm mostly active within the **Raspberry Pi** and **Robot Framework** communities.
