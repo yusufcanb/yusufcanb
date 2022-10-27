@@ -5,7 +5,6 @@
 </p>
 
 - 🌱 I’m currently working as **Full Stack Developer** at EnOcean.
-- 🔭 I have Master's degree in **Information Technology**.
 - 💬 I'm mostly active within the **Raspberry Pi** and **Robot Framework** communities.
 
 
