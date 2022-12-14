@@ -1,0 +1,12 @@
+[
+    {
+       "name":"ROC",
+       "url":"https://github.com/yusufcanb/roc",
+       "desc":"Kubernetes native low code automation platform tailored with Robot Framework. Provides parallelization and centralized reporting by desing."
+    },
+    {
+       "name":"Reactive Robot",
+       "url":"https://github.com/yusufcanb/reactive-robot",
+       "desc":"Fastest way to turn your robot files into an event driven service."
+    }
+]
