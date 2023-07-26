@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Yusuf Can Bayrak</h3>
 <p align="center">
-  <a href="https://www.reddit.com/u/yusufcanbayrak">Reddit</a> •
   <a href="https://www.linkedin.com/in/yusufcanbayrak">Linkedin</a>
 </p>
 
