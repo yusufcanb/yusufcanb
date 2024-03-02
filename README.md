@@ -1,5 +1,3 @@
-<h3 align="center">👋 Hi there! I'm Yusuf Can Bayrak</h3>
-
 <table align="center">
   <tr>
     <td>
