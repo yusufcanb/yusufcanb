@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Create Article File",
+            "type": "shell",
+            "windows": {
+                "command": "powershell",
+                "args": [
+                    "-ExecutionPolicy",
+                    "Bypass",
+                    "-File",
+                    "Scripts/create-article.ps1",
+                    "-ArticleName",
+                    "${input:articleName}.md"
+                ]
+            },
+            "linux": {
+                "command": "bash",
+                "args": [
+                    "Scripts/create-article.sh",
+                    "${input:articleName}.md"
+                ]
+            },
+            "osx": {
+                "command": "bash",
+                "args": [
+                    "Scripts/create-article.sh",
+                    "${input:articleName}.md"
+                ]
+            },
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "articleName",
+            "description": "Name of the article",
+            "type": "promptString",
+            "default": "New Article"
+        }
+    ]
+}
