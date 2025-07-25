@@ -6,6 +6,9 @@ tags: RAG, nlp, embeddings, semantics
 
 # Demystifying RAGs with Word Embeddings
 
+> [!TIP]
+> Before diving deep into this article, I highly suggest you to check [Key Terms](#key-terms) and spend 2-3 minutes playing [Semantris](https://research.google.com/semantris/) by Google to get an intuitive feel for how words relate to each other semantically.
+
 - [Demystifying RAGs with Word Embeddings](#demystifying-rags-with-word-embeddings)
   - [Key Terms](#key-terms)
   - [Words in a Coordinate System](#words-in-a-coordinate-system)
@@ -19,8 +22,6 @@ tags: RAG, nlp, embeddings, semantics
     - [Retrieve Similar Documents](#retrieve-similar-documents)
   - [Limitations](#limitations)
   - [References](#references)
-
-Before diving deep into this article, I highly suggest you to check [Key Terms](#key-terms) and spend 2-3 minutes playing [Semantris](https://research.google.com/semantris/) by Google to get an intuitive feel for how words relate to each other semantically.
 
 ## Key Terms
 
